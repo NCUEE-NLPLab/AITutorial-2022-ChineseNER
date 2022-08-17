@@ -13,7 +13,7 @@
 + pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 + pip install pandas==1.3.5
 + pip install tqdm==4.62.3
-+ pip install genism==4.2.0
++ pip install gensim==4.2.0
 
 ## Steps 3 詞嵌入訓練
 ### Data Format
