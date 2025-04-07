@@ -1,5 +1,0 @@
-存放訓練好的模型資料
-dir---
-    --parameter.txt -> 參數列表
-    --model_name.pt -> 模型參數
-    --score.txt -> 評估分數
